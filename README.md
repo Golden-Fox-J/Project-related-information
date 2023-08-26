@@ -1,5 +1,3 @@
-# Project-related-information
-
 # User Stories
 
 ```
