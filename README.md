@@ -1,4 +1,4 @@
-```
+
 It's an online store that display many products than you can buy them by
 choosing any product you like and then you can reach an information about
 the seller so you can reach him and buy this product, also you can put product's
@@ -7,7 +7,7 @@ It give you a stage that you can buy a product's in a good prices that some one
 didn't need it any more or he just want to sell it, therefore also you have
 a stage that allow you to sell a product and show it to many peoples instead
 of searching for someone that need it.
-```
+
 
 
 
